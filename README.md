@@ -1,8 +1,1 @@
-- 👋 Hi, I’m @ShawnNogi
-- 🌱 I’m currently learning Python.
-
-
-<!---
-ShawnNogi/ShawnNogi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="http://n.sinaimg.cn/sinacn20117/96/w2048h2048/20190526/a8e5-hxntqyy9281030.jpg" alt="image host"/></a>
